@@ -42,7 +42,7 @@ async def is_register_admin(chat, user):
 async def _(event):
     if event.fwd_from:
         return
-    """This method of approve system is made by @AyushChatterjee"""
+    """This method of approve system is made by @Somaliprogrammer""
     if event.is_group:
         if await is_register_admin(event.input_chat, event.message.sender_id):
             pass
