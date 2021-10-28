@@ -70,7 +70,7 @@ async def inline_help_func(__HELP__):
             title="Inline Commands",
             description="Help Related To Inline Usage.",
             input_message_content=InputTextMessageContent(__HELP__),
-            thumb_url="https://telegra.ph/file/2adf03bd079a0243aafac.png",
+            thumb_url="https://telegra.ph/file/8dc2346939ef1184fcf01.jpg",
             reply_markup=buttons,
         )
     ]
@@ -83,7 +83,7 @@ async def alive_function(answers):
     bot_state = "Dead" if not await app.get_me() else "Alive"
     # ubot_state = 'Dead' if not await app2.get_me() else 'Alive'
     buttons.add(
-        InlineKeyboardButton("Main Bot", url="https://t.me/Mr_Shadow_Robot"),
+        InlineKeyboardButton("Main Bot", url="https://t.me/SHADIYObot"),
         InlineKeyboardButton("Go Inline!", switch_inline_query_current_chat=""),
     )
 
@@ -101,7 +101,7 @@ async def alive_function(answers):
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/2adf03bd079a0243aafac.png",
+            thumb_url="https://telegra.ph/file/8dc2346939ef1184fcf01.jpg",
             input_message_content=InputTextMessageContent(
                 msg, disable_web_page_preview=True
             ),
