@@ -24,7 +24,7 @@ An 'odds and ends' module for small, simple commands which don't really fit anyw
 - /github <code>(username)</code>: Returns info about a GitHub user or organization.
 - /wiki <code>(keywords)</code>: Get wikipedia articles just using this bot.
 - /imdb: Search for a movie
-- /cancel: Disables current state. Can help in cases if @Mr_Shadow_Robot not responing on your message.
+- /cancel: Disables current state. Can help in cases if @SHADIYObot not responing on your message.
 - /id: get the current group id. If used by replying to a message, gets that user's id.
 - /info: get information about a user.
 - /paste: Pase the text/file in nekobin
