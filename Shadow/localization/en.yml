@@ -186,7 +186,7 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: '<b>Hey there, Shadow is alive :)</b>'
+    start_hi_group: '<b>Hey there, Shadiyo is alive :)</b>'
     start_hi: "Hey there! My name is <b>Shadow</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
     btn_source: "📜 Source code"
     btn_help: "❔ Help"
@@ -449,7 +449,7 @@ STRINGS:
     select_pm_lang: "\n<b>Select your new language:</b>"
     select_chat_lang: "\n<b>Select new chat language:</b>"
     crowdin_btn: "🌎 Join my support group"
-    help_us_translate: "\n\n<a href=\"https://t.me/ShadowbotUpdates\">🌎 Join my news channel</a>"
+    help_us_translate: "\n\n<a href=\"https://t.me/Somalimusicbot\">🌎 Join my news channel</a>"
     not_supported_lang: This language is not supported!
     lang_changed: Language was changed to <b>{lang_name}</b>.
     see_translators: 👥 See translators
@@ -616,7 +616,7 @@ STRINGS:
     # success_remove_rules_note: "Successfully removed rules note in <b>{}</b>."
   greetings:
     default_welcome: "Hey there {mention} and Welcome to {chatname}! How are you?"
-    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @ShadowbotUpdates"
+    thank_for_add: "Thanks for adding me to your group! Take a look at /help and follow my news channel @Somalibots"
     default_security_note: "Welcome {mention}! Please press button below to verify yourself as human!"
 
     bool_invalid_arg: Invalid argument, expected <code>on</code>/<code>off</code>.
