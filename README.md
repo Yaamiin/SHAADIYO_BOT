@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ Shadow ❤️</b></h1>
+<h1 align="center"><b>❤️ 𝗦𝗛𝗔𝗗𝗜𝗬𝗢 ❤️</b></h1>
 
 <h4 align="center">A Powerful, Smart And Advance Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
