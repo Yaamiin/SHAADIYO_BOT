@@ -7,7 +7,7 @@
   <a href="https://github.com/TeamOfShadow/Shadow/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/ShadowSupport_Official"><img src="https://telegra.ph/file/2adf03bd079a0243aafac.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/ShadowSupport_Official"><img src="https://telegra.ph/file/8dc2346939ef1184fcf01.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/gh/TeamOfShadow/Shadow/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/TeamOfShadow/Shadow"> <img src="https://img.shields.io/github/repo-size/TeamOfShadow/Shadow?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
